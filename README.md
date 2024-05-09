@@ -1,4 +1,4 @@
-##QA Documentation Templates
+## QA Documentation Templates
 
 This repo includes all the test document templates required for a QA to create in an Agile project.
 
