@@ -1,13 +1,13 @@
 #Test Plan
 
 What is this document? 
-A comprehensive document outlining the testing approach, objectives, schedule, and environment requirements.
+- A comprehensive document outlining the testing approach, objectives, schedule, and environment requirements.
 
 When do you prepare it for an agile project? 
-Created at the beginning of the project during the planning phase and updated iteratively as needed.
+- Created at the beginning of the project during the planning phase and updated iteratively as needed.
 
 What is the purpose of this document? 
-Provides a roadmap for testing activities, ensuring alignment with project goals, and defines the scope and criteria for successful testing.
+- Provides a roadmap for testing activities, ensuring alignment with project goals, and defines the scope and criteria for successful testing.
 
 Generally Used Test Plan:
 1. Master Test Plan
