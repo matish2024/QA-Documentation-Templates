@@ -1,4 +1,4 @@
-#Bug Report
+## Bug Report
 
 What is this document?
 - A detailed document that helps developers not only understand the problem but also gives the background information they need to fix it.

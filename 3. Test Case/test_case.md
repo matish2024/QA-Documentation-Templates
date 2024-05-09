@@ -1,4 +1,4 @@
-#Test Case
+## Test Case
 
 What is this document?
 - It outlines individual test scenarios, inputs, expected outcomes, and execution steps.

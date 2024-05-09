@@ -1,4 +1,4 @@
-#Test Strategy
+## Test Strategy
 
 What is this document? 
 - It outlines the overall testing approach for the Agile project.
